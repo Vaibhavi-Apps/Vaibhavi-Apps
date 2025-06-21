@@ -1,15 +1,34 @@
-<h1 align="center">Hi 👋, I'm Vaibhavi</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h1 align="center">👋 Hi, I'm Vaibhavi Panchal</h1>
+<h3 align="center">🚀 Passionate Android Developer | Kotlin & Jetpack Compose Enthusiast from India</h3>
 
-- 🔭 I’m working on **App development with Kotlin, Figma**
+---
 
-- 🌱 I’m currently learning **Canvas, MVVM, Jetpack Composes, Dependency Injections**
+- 🔭 Currently working on **modern Android apps** using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**  
+- 🧠 Exploring **Canvas**, **Ktor**, **Room Database**, and **Dependency Injection (Hilt/Dagger)**  
+- 🤖 Recently built an **AI-powered Recipe App** using **Gemini API** and **Ktor**  
+- 💬 Ask me about **Android project ideas**, **Jetpack Compose UI**, or **Kotlin tips**  
+- 📫 Reach me at: **vppanchalofficial@gmail.com**
 
-- 💬 Ask me about **kotlin projects, ideas**
+---
 
-- 📫 How to reach me **vppanchalofficial@gmail.com**
+### 💡 Tech Stack
+- **Languages:** Kotlin, Java  
+- **UI:** Jetpack Compose, XML, Material Design  
+- **Architecture:** MVVM, MVP, Clean Architecture  
+- **Networking:** Retrofit, Ktor  
+- **Database:** Room, SQLite, Firebase  
+- **Tools:** Android Studio, Git, GitHub, Postman, Figma  
+- **APIs:** Gemini AI, Gmail API, Google Maps & Directions, People API  
 
-<p align="left">
+---
+
+### 🌱 Fun Fact
+I love building tools that simplify daily workflows and spark creativity — from productivity apps to AI-integrated experiences.  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vppanchal15&show_icons=true&theme=radical" alt="Vaibhavi's GitHub stats"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

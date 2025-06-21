@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Currently working on **modern Android apps** using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**  
+- 🔭 Currently working on **Modern Android apps** using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**  
 - 🧠 Exploring **Canvas**, **Ktor**, **Room Database**, and **Dependency Injection (Hilt/Dagger)**  
 - 🤖 Recently built an **AI-powered Recipe App** using **Gemini API** and **Ktor**  
 - 💬 Ask me about **Android project ideas**, **Jetpack Compose UI**, or **Kotlin tips**  

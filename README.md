@@ -40,11 +40,10 @@ I sit at the intersection of **product, engineering and people**: turning ideas 
 - 🎯 **Lead management** with auto-assignment, follow-up reminders and funnel insights
 - 💬 **WhatsApp campaign automation**, call-log management and automated birthday/anniversary greetings
 - 📅 **Portfolio review scheduling** based on AUM categories, with missed-meeting reminders and RM visit allocation
-<!-- Add your impact numbers here if you can share them, e.g.:
-- ⚡ Improved crash-free rate / startup time by X%
-- 👩‍💻 Leading a team of N developers
-- 🔄 Migrated X modules from XML/Java to Compose/Kotlin
--->
+- 👩‍💻 Leading a team of **3 Android developers**: code reviews, task planning and mentoring
+- 🚀 Shipped **20+ Play Store releases** with a stable, on-time release process
+- ⚡ Improved crash-free rate to **99%+** using Firebase Crashlytics monitoring
+- 🔄 Migrated key screens from **XML to Jetpack Compose** for faster UI development
  
 
 ### 🕰️ Total Experience: 7+ Years

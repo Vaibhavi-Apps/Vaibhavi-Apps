@@ -6,7 +6,6 @@
   <a href="mailto:vppanchal15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based%20in-India-138808?style=for-the-badge" alt="India"/>
 </p>
----
  
 ## 🚀 About Me
  

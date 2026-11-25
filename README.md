@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vaibhavi Panchal 👋</h1>
-<h3 align="center">Senior Android Developer & Lead · AI-Driven App Development</h3>
+<h3 align="center">Senior Android Developer & Project Lead · AI-Driven App Development</h3>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhavi-panchal-27b895165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,18 +8,18 @@
 </p>
 ## 🚀 About Me
  
-I'm an Android developer with **7+ years** of experience building and shipping high-performance mobile apps, and leading the teams that build them.
+I'm an Android developer with **7+ years** of experience building and shipping high-performance mobile apps, and leading projects from planning to release.
 I sit at the intersection of **product, engineering and people**: turning ideas into reliable, well-architected apps, and helping developers around me grow.
  
 - 🤖 **AI-driven development**: building GenAI features into real products (Gemini API, image recognition, personalised recommendations)
 - 🏗️ **Architecture ownership**: Clean Architecture, MVVM / MVI, modularisation, XML → Jetpack Compose migrations
-- 👥 **Team leadership**: mentoring developers, code reviews, task planning and release ownership
+- 👥 **Project leadership**: leading projects, mentoring developers, code reviews, task planning and release ownership
 - 📈 **Delivery focus**: performance, stability and quality from first commit to Play Store release
 ---
  
 ## 💼 What I Bring to a Team
  
-| Engineering Leadership | AI-Driven Products | Quality & Architecture |
+| Project Leadership | AI-Driven Products | Quality & Architecture |
 |---|---|---|
 | Mentoring and growing developers | GenAI features with Gemini API | Clean Architecture & SOLID |
 | Code review culture & standards | AI image recognition flows | Testable, modular codebases |
@@ -30,7 +30,7 @@ I sit at the intersection of **product, engineering and people**: turning ideas 
  
 ## 🏆 Professional Highlights
  
-### 📱 Senior Android Developer & Lead · [Sanchay Mobile CRM](https://play.google.com/store/apps/details?id=com.enjayworld.sanchaycrm) · Enjay IT Solutions Ltd.
+### 📱 Senior Android Developer & Project Lead · [Sanchay Mobile CRM](https://play.google.com/store/apps/details?id=com.enjayworld.sanchaycrm) · Enjay IT Solutions Ltd.
 *A live, actively maintained CRM for financial advisors and mutual fund distributors · Business category*
  
 - 🧭 **Leading Android development end-to-end**: architecture, feature planning, code reviews and Play Store releases
@@ -39,13 +39,13 @@ I sit at the intersection of **product, engineering and people**: turning ideas 
 - 🎯 **Lead management** with auto-assignment, follow-up reminders and funnel insights
 - 💬 **WhatsApp campaign automation**, call-log management and automated birthday/anniversary greetings
 - 📅 **Portfolio review scheduling** based on AUM categories, with missed-meeting reminders and RM visit allocation
-- 👩‍💻 Leading a team of **3 Android developers**: code reviews, task planning and mentoring
-- 🚀 Shipped **20+ Play Store releases** with a stable, on-time release process
-- ⚡ Improved crash-free rate to **99%+** using Firebase Crashlytics monitoring
+- 👩‍💻 **Led a project end-to-end** with a developer on my team: task planning, code reviews and mentoring
+- 🚀 **Release owner**: every update passes through my code review, merge and release decision, with 20+ Play Store releases across Sanchay CRM and other company apps
+- ⚡ Review Firebase Crashlytics **weekly**, prioritise issues and assign fixes, maintaining a **98%+ crash-free rate**
 - 🔄 Migrated key screens from **XML to Jetpack Compose** for faster UI development
 ### 🕰️ Total Experience: 7+ Years
 - 📱 **7+ years** building and shipping production Android apps across business, productivity and consumer domains
-- 🚀 Grew from Android Developer to **Senior Android Developer & Lead**, owning architecture, delivery and team mentoring
+- 🚀 Grew from Android Developer to **Senior Android Developer & Project Lead**, owning architecture, delivery and mentoring
 ---
  
 ## 🌟 Featured Projects
@@ -93,12 +93,12 @@ I sit at the intersection of **product, engineering and people**: turning ideas 
  
 - 🤖 Building AI-first Android experiences with **Gemini** and **Ktor**
 - 🎨 Exploring advanced **Compose Canvas** and animation
-- 💼 **Currently:** Senior Android Developer & Lead at **Enjay IT Solutions**, building Sanchay Mobile CRM
+- 💼 **Currently:** Senior Android Developer & Project Lead at **Enjay IT Solutions**, building Sanchay Mobile CRM
 ---
  
 ## 🤝 Let's Connect
  
-I'm always happy to talk about **Android architecture, AI in mobile apps, or growing engineering teams**.
+I'm always happy to talk about **Android architecture, AI in mobile apps, or project delivery**.
 Reach me on [LinkedIn](https://www.linkedin.com/in/vaibhavi-panchal-27b895165/) or at **vppanchal15@gmail.com**.
  
 <p align="center"><i>Building apps that matter, with teams that grow.</i></p>
